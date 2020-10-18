@@ -5,3 +5,5 @@
 <br>
 <h2>LATEST NEWS IS THAT When-to-do IS ALSO AVAILABLE AT <a href="https://sourceforge.net/p/when-to-do/">SOURCEFORGE 😄</a></h2>
 <summary>ABOUT</summary><details>When-To-Do Is Developed And Maintained By Harman Singh (Verron Coss,tide),And When-To-Do Was Uploaded On Internet On 17 Oct 2020 With The Goal To Increase Productivity Of Users 📈</details>
+<h2>USE When-To-Do ONLINE WITH <a href="https://when-to-do.glitch.me"> GLITCH</a> BUT THE APP WOULD NOT OPEN BECAUSE OF LESS TRAFFIC!  </h2>
+<h3>2020 (C) COPYRIGHT.HARMAN SINGH PRODUCTIONS.All Rights Reserved.</h3>
