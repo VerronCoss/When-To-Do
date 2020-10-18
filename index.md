@@ -4,3 +4,4 @@
 <hr>
 <br>
 <h2>LATEST NEWS IS THAT When-to-do IS ALSO AVAILABLE AT <a href="https://sourceforge.net/p/when-to-do/">SOURCEFORGE 😄</a></h2>
+<summary>ABOUT</summary><details>When-To-Do Is Developed And Maintained By Harman Singh (Verron Coss,tide),And When-To-Do Was Uploaded On Internet On 17 Oct 2020 With The Goal To Increase Productivity Of Users 📈</details>
