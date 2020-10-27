@@ -13,4 +13,7 @@
 <ul>
   <li><a href="https://github.com/VerronCoss/When-To-Do/files/5397407/WhenToDo.OLD.LIGHTSv1.zip">DOWNLOAD MYNOTES++ OLD LIGHTS</a></li>
   </ul>
+<a href="https://dev.to/harmansingh">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Harman Singh's DEV Profile" height="50" width="50">
+</a>
 <h3>2020 (C) COPYRIGHT.HARMAN SINGH PRODUCTIONS.All Rights Reserved.</h3>
